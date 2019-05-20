@@ -1,0 +1,7 @@
+version: v1
+type: Resources
+config: {}
+definitions:
+  colors:
+	  foo: definitions/colors.yaml
+

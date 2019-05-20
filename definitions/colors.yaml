@@ -1,0 +1,11 @@
+version: v1
+type: ColorResourceDefinition
+config: {}
+palette:
+  skyBlue:
+    fromHex: 000000
+  backgroundGray0:
+    fromHex: 444444
+theme:
+  backgroundColor: backgroundGray0
+  titleTextColor: skyBlue
